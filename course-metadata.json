@@ -1,0 +1,27 @@
+{
+  "id": "68a76105d4da70aa889708aa",
+  "title": "Python Essentials",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
+  "remoteGithubUrl": "https://github.com/1992tw/python-essentials-ooo",
+  "createdAt": "2025-08-21T18:10:13.769Z",
+  "updatedAt": "2025-08-21T18:10:19.014Z",
+  "lessonCount": 16
+}
